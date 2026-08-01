@@ -1,5 +1,3 @@
-
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=B497FF&center=true&vCenter=true&width=650&lines=Founder+%26+CEO+%40+Quantum+Pillar;Building+AI-Powered+Digital+Platforms;B.Tech+CSE+(AI)+%40+Shoolini+University;Software+Engineer+%7C+Product+Builder" alt="Typing SVG" />
 </a>
