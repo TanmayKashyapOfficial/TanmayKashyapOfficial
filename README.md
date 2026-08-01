@@ -40,7 +40,6 @@ Founder & CEO of **Quantum Pillar**, a parent technology company building softwa
 <a href="https://twitter.com/TanmayKOfficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="TanmayKOfficial" height="30" width="40" /></a>
 <a href="https://medium.com/@tanmaykashyap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tanmaykashyap" height="30" width="40" /></a>
 <a href="https://youtube.com/TanmayKashyapOfficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="TanmayKashyapOfficial" height="30" width="40" /></a>
-<a href="https://discord.gg/tanmaykashyapofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tanmaykashyapofficial" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
