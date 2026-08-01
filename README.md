@@ -1,6 +1,4 @@
-<div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=TANMAY%20KASHYAP&fontSize=50&fontColor=B497FF&animation=twinkling&fontAlignY=35&desc=Founder%20%26%20CEO%20%40%20Quantum%20Pillar%20%7C%20AI%20%26%20Software%20Engineer&descAlignY=55&descSize=18)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=B497FF&center=true&vCenter=true&width=650&lines=Founder+%26+CEO+%40+Quantum+Pillar;Building+AI-Powered+Digital+Platforms;B.Tech+CSE+(AI)+%40+Shoolini+University;Software+Engineer+%7C+Product+Builder" alt="Typing SVG" />
