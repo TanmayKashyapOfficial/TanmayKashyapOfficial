@@ -1,115 +1,262 @@
-# Tanmay Kashyap
+<div align="center">
 
-> Founder & CEO @ Quantum Pillar
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=TANMAY%20KASHYAP&fontSize=48&fontColor=B497FF&animation=fadeIn&fontAlignY=38&desc=Founder%20%26%20CEO%20%40%20Quantum%20Pillar%20%7C%20AI%20%26%20Software%20Engineer&descAlignY=58&descSize=18)
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD,7B68EE,8A2BE2&height=220&section=header&text=Tanmay%20Kashyap&fontSize=42&fontColor=ffffff"/>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=B497FF&center=true&vCenter=true&width=650&lines=Founder+%26+CEO+%40+Quantum+Pillar;Building+AI-Powered+Digital+Platforms;B.Tech+CSE+(AI)+%40+Shoolini+University;Software+Engineer+%7C+Product+Builder" alt="Typing SVG" />
+</a>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=8A2BE2&center=true&vCenter=true&width=700&lines=Founder+%26+CEO+%40+Quantum+Pillar;AI+Engineer;Software+Developer;Building+Technology+For+The+Future"/>
-</p>
+<br/>
 
-<p align="center">
-<a href="https://github.com/TanmayKashyapOfficial"><img src="https://img.shields.io/badge/GitHub-TanmayKashyapOfficial-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://www.linkedin.com/in/tanmaykashyapofficial"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-</p>
+![Location](https://img.shields.io/badge/Location-Patna%2C%20Bihar%2C%20India-6C3FC5?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Education](https://img.shields.io/badge/B.Tech-CSE%20(AI)%20%40%20Shoolini%20University-8A2BE2?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Founder](https://img.shields.io/badge/Founder%20%26%20CEO-Quantum%20Pillar-5D3FD3?style=for-the-badge&logo=rocket&logoColor=white)
 
----
+<br/>
 
-## About Me
+<a href="https://linkedin.com/in/tanmaykashyapofficial">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-4B0082?style=for-the-badge&logo=todoist&logoColor=white" />
+</a>
 
-Founder & CEO of **Quantum Pillar**, a parent technology company building software, intelligent systems, and digital platforms.
+</div>
 
-### Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+<br/>
 
 ---
 
- 👨‍💻 All of my projects are available at **[https://quantumpillar.odoo.com](https://quantumpillar.odoo.com)**
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/TanmayKashyapOfficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="TanmayKashyapOfficial" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tanmaykashyapofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanmaykashyapofficial" height="30" width="40" /></a>
-<a href="https://instagram.com/itanmaykashyap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itanmaykashyap" height="30" width="40" /></a>
-<a href="https://twitter.com/TanmayKOfficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="TanmayKOfficial" height="30" width="40" /></a>
-<a href="https://medium.com/@tanmaykashyap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tanmaykashyap" height="30" width="40" /></a>
-<a href="https://youtube.com/TanmayKashyapOfficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="TanmayKashyapOfficial" height="30" width="40" /></a>
-</p>
+### 🧬 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/amplify" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/canvasjs" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/circleci" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/circleci/555" alt="circleci" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cockroachdb" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/cockroachlabs" alt="cockroachdb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/codeigniter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/couchdb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/d3js" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=d3" alt="d3js" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/electron" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=electron" alt="electron" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/grafana" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/haskell" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=haskell" alt="haskell" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ionic" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kafka" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kibana" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/middleman" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="middleman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mlflow" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/mlflow/0194E2" alt="mlflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nativescript" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/nativescript/3655FF" alt="nativescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nestjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/objectivec" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=apple" alt="objectivec" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pug" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pug" alt="pug" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rabbitMQ" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rails" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rails" alt="rails" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/travisci" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/travisci" alt="travisci" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unreal" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unreal" alt="unreal" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vagrant" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/webpack" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=webpack" alt="webpack" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/zapier" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="zapier" width="40" height="40"/> </a></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TanmayKashyapOfficial&show_icons=true&locale=en&layout=compact" alt="TanmayKashyapOfficial" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TanmayKashyapOfficial&show_icons=true&locale=en" alt="TanmayKashyapOfficial" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TanmayKashyapOfficial&" alt="TanmayKashyapOfficial" /></p>
-
-
-## Experience
-
-| Role | Organization | Duration |
-|------|--------------|----------|
-| Founder & CEO | Quantum Pillar | May 2025 – Present |
-| Research Intern | DRDO | Jul 2024 – Sep 2024 |
-| News Intern | The Hindu | Jun 2025 – Nov 2025 |
-
----
-
-## GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TanmayKashyapOfficial&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=TanmayKashyapOfficial&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayKashyapOfficial&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TanmayKashyapOfficial&theme=tokyo-night"/>
-</p>
-
----
-
-## Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=TanmayKashyapOfficial&theme=tokyonight&no-frame=true"/>
-</p>
-
----
-
-## Current Focus
+</div>
 
 ```yaml
-Learning:
-  - Artificial Intelligence
-  - System Design
-Building:
-  - Quantum Pillar
-Exploring:
-  - Open Source
-OpenTo:
-  - Collaboration
-  - Internships
+founder:     Quantum Pillar (Parent Technology Company)
+education:   B.Tech CSE (Artificial Intelligence) @ Shoolini University
+focus:       AI Systems • Software Engineering • Product Architecture
+location:    Patna, Bihar, India
+philosophy:  "Simplicity, Innovation, Reliability, Privacy, Continuous Improvement"
+```
+
+I'm an ambitious **technology entrepreneur** and **aspiring software engineer**, currently building **Quantum Pillar** — a parent technology company focused on AI-powered software, intelligent systems, and scalable digital platforms. I'm driven by a long-term vision of building globally impactful products that simplify digital experiences and strengthen human connection.
+
+---
+
+<div align="center">
+
+### 💼 Professional Experience
+
+</div>
+
+<table>
+<tr>
+<td width="100%">
+
+<details open>
+<summary><b>🚀 Founder & Chief Executive Officer — Quantum Pillar</b></summary>
+<br/>
+
+**May 2025 — Present**
+
+Founded Quantum Pillar, a parent technology company focused on building software, intelligent systems, and future-ready digital platforms that solve meaningful real-world problems.
+
+**Scope of Work**
+- Define long-term vision, mission, and strategic direction of the company
+- Lead product strategy, technology planning, branding, and business development
+- Research emerging technologies including AI and intelligent software systems
+- Design scalable digital product concepts and future technology platforms
+- Develop technology solutions focused on innovation, usability, privacy, and trust
+
+**Skills:** `Startup Leadership` `Product Strategy` `Technology Management` `Business Development` `Innovation Management`
+
+</details>
+
+</td>
+</tr>
+
+<tr>
+<td width="100%">
+
+<details>
+<summary><b>📰 News Intern — The Hindu</b></summary>
+<br/>
+
+**June 2025 — November 2025**
+
+Worked in a professional newsroom environment assisting editorial operations and supporting research-driven journalism.
+
+**Scope of Work**
+- Conducted editorial research and information verification
+- Assisted in content preparation and analytical writing
+- Collaborated within professional editorial teams
+
+**Skills:** `Research` `Editorial Analysis` `Professional Communication`
+
+</details>
+
+</td>
+</tr>
+
+<tr>
+<td width="100%">
+
+<details>
+<summary><b>🛰️ Research Intern — DRDO, Ministry of Defence, Govt. of India</b></summary>
+<br/>
+
+**July 2024 — September 2024**
+
+Worked under experienced researchers supporting technical research activities and analytical documentation.
+
+**Scope of Work**
+- Reviewed technical literature and prepared documentation
+- Participated in analytical research activities
+- Strengthened analytical reasoning and structured research methodology
+
+**Skills:** `Technical Research` `Documentation` `Analytical Reasoning`
+
+</details>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🏆 Achievements
+
+| Recognition | Details |
+|:---:|:---:|
+| 🏛️ Founder & CEO | Established Quantum Pillar as a parent technology company (2025) |
+| 🔬 Research Internship | Selected for research role at DRDO, Ministry of Defence, Govt. of India |
+| 📰 Editorial Internship | Contributed to editorial research at *The Hindu* |
+| 🎓 Zoho Certified Associate Developer | Certified in Zoho application development concepts |
+
+</div>
+
+---
+
+<div align="center">
+
+### 📜 Certifications
+
+<br/>
+
+<img src="https://img.shields.io/badge/Zoho-Certified%20Associate%20Developer-8A2BE2?style=for-the-badge&logo=zoho&logoColor=white" />
+
+<br/><br/>
+
+<b>AWS</b><br/>
+<img src="https://img.shields.io/badge/AWS-Not%20Yet%20Certified-2E1A47?style=flat-square&logo=amazonaws&logoColor=white" />
+
+<b>Oracle</b><br/>
+<img src="https://img.shields.io/badge/Oracle-Not%20Yet%20Certified-2E1A47?style=flat-square&logo=oracle&logoColor=white" />
+
+<b>NPTEL</b><br/>
+<img src="https://img.shields.io/badge/NPTEL-Not%20Yet%20Certified-2E1A47?style=flat-square&logo=googlescholar&logoColor=white" />
+
+<b>Cisco</b><br/>
+<img src="https://img.shields.io/badge/Cisco-Not%20Yet%20Certified-2E1A47?style=flat-square&logo=cisco&logoColor=white" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Coding Profiles
+
+<a href="#"><img src="https://img.shields.io/badge/LeetCode-Profile-6A0DAD?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-4B0082?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/HackerRank-Profile-5D3FD3?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/CodeChef-Profile-8A2BE2?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 GitHub Analytics
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanmaykashyapofficial&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=B497FF&icon_color=8A2BE2&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaykashyapofficial&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=B497FF&text_color=c9d1d9" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=tanmaykashyapofficial&theme=radical&hide_border=true&background=0D1117&stroke=8A2BE2&ring=B497FF&fire=B497FF&currStreakLabel=B497FF" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏅 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=tanmaykashyapofficial&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=8&column=7" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanmaykashyapofficial&theme=react-dark&bg_color=0D1117&color=B497FF&line=8A2BE2&point=ffffff&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/tanmaykashyapofficial/tanmaykashyapofficial/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 Current Focus
+
+</div>
+
+```yaml
+Learning:    Artificial Intelligence, Machine Learning, System Design
+Building:    Quantum Pillar — AI-powered software & digital platforms
+Exploring:   Generative AI, Cloud Computing, Cybersecurity
+Open To:     Internships • Collaborations • Research Opportunities • Startup Networking
 ```
 
 ---
 
-> "Building technology that creates long-term impact."
+<div align="center">
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD,7B68EE,8A2BE2&height=120&section=footer"/>
-</p>
+### 📫 Connect With Me
+
+<a href="mailto:kashyaptanmay922@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-4B0082?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/tanmaykashyapofficial"><img src="https://img.shields.io/badge/LinkedIn-Connect-5D3FD3?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/tanmaykashyapofficial"><img src="https://img.shields.io/badge/GitHub-Follow-6A0DAD?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=todoist&logoColor=white" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Technology has the power to transform lives when it is built with purpose, responsibility, and a long-term vision."*
+
+![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer)
+
+</div>
