@@ -16,11 +16,6 @@
 <a href="https://linkedin.com/in/tanmaykashyapofficial">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" />
 
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-4B0082?style=for-the-badge&logo=todoist&logoColor=white" />
-</a>
-
-</div>
 
 <br/>
 
