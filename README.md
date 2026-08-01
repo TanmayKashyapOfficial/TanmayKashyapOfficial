@@ -1,8 +1,15 @@
 <div align="center">
 
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=TANMAY%20KASHYAP&fontSize=50&fontColor=B497FF&animation=twinkling&fontAlignY=35&desc=Founder%20%26%20CEO%20%40%20Quantum%20Pillar%20%7C%20AI%20%26%20Software%20Engineer&descAlignY=55&descSize=18)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=B497FF&center=true&vCenter=true&width=650&lines=Founder+%26+CEO+%40+Quantum+Pillar;Building+AI-Powered+Digital+Platforms;B.Tech+CSE+(AI)+%40+Shoolini+University;Software+Engineer+%7C+Product+Builder" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=900&color=8A2BE2&center=true&vCenter=true&width=600&lines=%24+whoami+%E2%86%92+founder+%2B+engineer+%2B+builder;%24+status+%E2%86%92+shipping+Quantum+Pillar;%24+mission+%E2%86%92+build+trusted%2C+global-scale+software" alt="Terminal Typing SVG" />
 </a>
 
 <br/>
@@ -15,10 +22,18 @@
 
 <a href="https://linkedin.com/in/tanmaykashyapofficial">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=tanmaykashyapofficial&label=Profile%20Views&color=8A2BE2&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/tanmaykashyapofficial?label=Followers&style=for-the-badge&color=6A0DAD&logo=github)
+
+</div>
 
 <br/>
 
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:6A0DAD,100:0f0c29&height=3&section=header&animation=fadeIn)
 
 <div align="center">
 
@@ -27,16 +42,22 @@
 </div>
 
 ```yaml
-       founder: Quantum Pillar (Parent Technology Company)
-       education: B.Tech CSE (Artificial Intelligence) @ Shoolini University
-       focus: AI Systems • Software Engineering • Product Architecture
-       location: Patna, Bihar, India
-       philosophy: "Simplicity, Innovation, Reliability, Privacy, Continuous Improvement"
+founder:     Quantum Pillar (Parent Technology Company)
+education:   B.Tech CSE (Artificial Intelligence) @ Shoolini University
+focus:       AI Systems • Software Engineering • Product Architecture
+location:    Patna, Bihar, India
+philosophy:  "Simplicity, Innovation, Reliability, Privacy, Continuous Improvement"
 ```
 
 I'm an ambitious **technology entrepreneur** and **aspiring software engineer**, currently building **Quantum Pillar** — a parent technology company focused on AI-powered software, intelligent systems, and scalable digital platforms. I'm driven by a long-term vision of building globally impactful products that simplify digital experiences and strengthen human connection.
 
----
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="1" height="1" />
+
+</div>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:6A0DAD,100:0f0c29&height=3&section=header&animation=fadeIn)
 
 <div align="center">
 
@@ -117,7 +138,7 @@ Worked under experienced researchers supporting technical research activities an
 </tr>
 </table>
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:6A0DAD,100:0f0c29&height=3&section=header&animation=fadeIn)
 
 <div align="center">
 
@@ -132,7 +153,7 @@ Worked under experienced researchers supporting technical research activities an
 
 </div>
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:6A0DAD,100:0f0c29&height=3&section=header&animation=fadeIn)
 
 <div align="center">
 
@@ -146,7 +167,7 @@ Worked under experienced researchers supporting technical research activities an
 
 </div>
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:6A0DAD,100:0f0c29&height=3&section=header&animation=fadeIn)
 
 <div align="center">
 
@@ -159,7 +180,17 @@ Worked under experienced researchers supporting technical research activities an
 
 </div>
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:6A0DAD,100:0f0c29&height=3&section=header&animation=fadeIn)
+
+<div align="center">
+
+### 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=py,cpp,git,github,linux,mysql,aws,vscode,figma&theme=dark" />
+
+</div>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:6A0DAD,100:0f0c29&height=3&section=header&animation=fadeIn)
 
 <div align="center">
 
@@ -174,7 +205,7 @@ Worked under experienced researchers supporting technical research activities an
 
 </div>
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:6A0DAD,100:0f0c29&height=3&section=header&animation=fadeIn)
 
 <div align="center">
 
@@ -184,7 +215,7 @@ Worked under experienced researchers supporting technical research activities an
 
 </div>
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:6A0DAD,100:0f0c29&height=3&section=header&animation=fadeIn)
 
 <div align="center">
 
@@ -194,7 +225,17 @@ Worked under experienced researchers supporting technical research activities an
 
 </div>
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:6A0DAD,100:0f0c29&height=3&section=header&animation=fadeIn)
+
+<div align="center">
+
+### 🗓️ 3D Contribution Calendar
+
+<img src="https://raw.githubusercontent.com/tanmaykashyapofficial/tanmaykashyapofficial/main/profile-3d-contrib/profile-night-rainbow.svg" />
+
+</div>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:6A0DAD,100:0f0c29&height=3&section=header&animation=fadeIn)
 
 <div align="center">
 
@@ -204,7 +245,7 @@ Worked under experienced researchers supporting technical research activities an
 
 </div>
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:6A0DAD,100:0f0c29&height=3&section=header&animation=fadeIn)
 
 <div align="center">
 
@@ -219,7 +260,7 @@ Exploring:   Generative AI, Cloud Computing, Cybersecurity
 Open To:     Internships • Collaborations • Research Opportunities • Startup Networking
 ```
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:6A0DAD,100:0f0c29&height=3&section=header&animation=fadeIn)
 
 <div align="center">
 
@@ -232,12 +273,14 @@ Open To:     Internships • Collaborations • Research Opportunities • Start
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-*"Technology has the power to transform lives when it is built with purpose, responsibility, and a long-term vision."*
-
-![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1200&color=B497FF&center=true&vCenter=true&width=700&lines=%22Technology+has+the+power+to+transform+lives+when+it+is+built;with+purpose%2C+responsibility%2C+and+a+long-term+vision.%22" alt="Founder Quote Typing SVG" />
+</a>
 
 </div>
+
+![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer&animation=twinkling)
