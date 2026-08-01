@@ -150,18 +150,6 @@ Worked under experienced researchers supporting technical research activities an
 
 <br/><br/>
 
-<b>AWS</b><br/>
-<img src="https://img.shields.io/badge/AWS-Not%20Yet%20Certified-2E1A47?style=flat-square&logo=amazonaws&logoColor=white" />
-
-<b>Oracle</b><br/>
-<img src="https://img.shields.io/badge/Oracle-Not%20Yet%20Certified-2E1A47?style=flat-square&logo=oracle&logoColor=white" />
-
-<b>NPTEL</b><br/>
-<img src="https://img.shields.io/badge/NPTEL-Not%20Yet%20Certified-2E1A47?style=flat-square&logo=googlescholar&logoColor=white" />
-
-<b>Cisco</b><br/>
-<img src="https://img.shields.io/badge/Cisco-Not%20Yet%20Certified-2E1A47?style=flat-square&logo=cisco&logoColor=white" />
-
 </div>
 
 ---
