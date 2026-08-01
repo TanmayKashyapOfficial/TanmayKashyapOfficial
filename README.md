@@ -27,11 +27,11 @@
 </div>
 
 ```yaml
-founder:     Quantum Pillar (Parent Technology Company)
-education:   B.Tech CSE (Artificial Intelligence) @ Shoolini University
-focus:       AI Systems • Software Engineering • Product Architecture
-location:    Patna, Bihar, India
-philosophy:  "Simplicity, Innovation, Reliability, Privacy, Continuous Improvement"
+founder: Quantum Pillar (Parent Technology Company)
+education: B.Tech CSE (Artificial Intelligence) @ Shoolini University
+focus: AI Systems • Software Engineering • Product Architecture
+location: Patna, Bihar, India
+philosophy: "Simplicity, Innovation, Reliability, Privacy, Continuous Improvement"
 ```
 
 I'm an ambitious **technology entrepreneur** and **aspiring software engineer**, currently building **Quantum Pillar** — a parent technology company focused on AI-powered software, intelligent systems, and scalable digital platforms. I'm driven by a long-term vision of building globally impactful products that simplify digital experiences and strengthen human connection.
