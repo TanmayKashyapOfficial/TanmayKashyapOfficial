@@ -1,6 +1,6 @@
 # Tanmay Kashyap
 
-> Founder & CEO @ Quantum Pillar • B.Tech CSE (AI)
+> Founder & CEO @ Quantum Pillar
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD,7B68EE,8A2BE2&height=220&section=header&text=Tanmay%20Kashyap&fontSize=42&fontColor=ffffff"/>
