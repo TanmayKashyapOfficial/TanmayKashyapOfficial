@@ -264,10 +264,8 @@ Open To:     Internships • Collaborations • Research Opportunities • Start
 
 ### 📫 Connect With Me
 
-<a href="mailto:kashyaptanmay922@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-4B0082?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/tanmaykashyapofficial"><img src="https://img.shields.io/badge/LinkedIn-Connect-5D3FD3?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/tanmaykashyapofficial"><img src="https://img.shields.io/badge/GitHub-Follow-6A0DAD?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=todoist&logoColor=white" /></a>
 
 </div>
 
